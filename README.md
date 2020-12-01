@@ -2,7 +2,7 @@
 
 laboratory environment
 
-![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.png)
+![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg)
 
 2d grid map
 
