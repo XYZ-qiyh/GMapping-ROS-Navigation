@@ -2,11 +2,11 @@
 
 laboratory environment
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.png)
 
 2d grid map
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-2d-grid-map.png)
 
 
 
