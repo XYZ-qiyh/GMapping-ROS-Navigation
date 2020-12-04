@@ -1,15 +1,16 @@
 # GMapping-ROS-Navigation
 
-<img src="https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg" width="480" height="270">
+ <table align="center">
+  <tr>
+    <td><img src="https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg" width="480" height="270"></td>
+    <td><img src="https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-2d-grid-map.png" width="480" height="270"></td>
+  </tr>
+  <tr>
+    <td>laboratory environment</td>
+    <td>2d grid map</td>
+  </tr>
+</table>
 
-
-laboratory environment
-
-![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg)
-
-2d grid map
-
-![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-2d-grid-map.png)
 
 
 
