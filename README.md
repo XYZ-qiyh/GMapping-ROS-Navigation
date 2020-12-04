@@ -1,6 +1,6 @@
 # GMapping-ROS-Navigation
 
-<img src="https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg" alt="Laboratory photo">
+<img src="https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg" width="480" height="270">
 
 
 laboratory environment
