@@ -1,5 +1,8 @@
 # GMapping-ROS-Navigation
 
+<img src="https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg" alt="Laboratory photo">
+
+
 laboratory environment
 
 ![image](https://github.com/Todd-Qi/GMapping-ROS-Navigation/blob/master/map/lab-map.jpg)
